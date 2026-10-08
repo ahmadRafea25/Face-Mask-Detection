@@ -1,0 +1,5 @@
+Model Evaluation Summary:
+Accuracy: 0.9584
+Macro Avg Precision: 0.9585
+Macro Avg Recall: 0.9583
+Macro Avg F1-score: 0.9581
